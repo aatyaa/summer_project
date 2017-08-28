@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "775282872802",
+    "firebase_url": "https://atya-7a2af.firebaseio.com",
+    "project_id": "atya-7a2af",
+    "storage_bucket": "atya-7a2af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775282872802:android:e5c9479c1f03dc2b",
+        "android_client_info": {
+          "package_name": "com.example.summerproject.summerproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775282872802-gnokqdgp1nkki309r9t6uhe9fhk9dpba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7lAcB8v-fv8nR1QLsrxlW3YtjvlCRdsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
